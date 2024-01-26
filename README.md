@@ -6,7 +6,19 @@
 
 
 - GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=bilalqv&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+<a target="_blank" href="https://www.linkedin.com/in/bilalqv/">
+  <img align="right"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/bilalqv">
+  <img align="right" alt="recursion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+![](https://komarev.com/ghpvc/?username=bilalqv&color=ff69b4)
+<img align='left' width="350" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
+
 
 <!---
 crediblebilal/crediblebilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
