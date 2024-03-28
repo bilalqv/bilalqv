@@ -16,7 +16,7 @@
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=bilalqv&color=ff69b4)
+
 <img align='left' width="350" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
 
 
