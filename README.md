@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bilal Ahmad Bhat.
-- 👀 I am passionate about Problem Solving, Data Structures, and Algorithms, with a focus on Software Development.
+- 👀 I am passionate about Problem Solving, Data Structures & Algorithms, with a focus on Software Development.
 - 🌱 I’m currently learning Golang & Python.
 
 
