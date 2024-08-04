@@ -7,18 +7,13 @@
 
 - GitHub Stats:
 
-<a target="_blank" href="https://www.linkedin.com/in/bilalqv/">
-  <img align="right"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalqv&bg_color=2f4f4f&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/ashiqYousuf/github-readme-activity-graph)
 
-<a href="https://github.com/bilalqv">
-  <img align="right" alt="recursion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox)](https://git.io/streak-stats) --->
 
+<img align='left' width="450" src="https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox">
 
-
-<img align='left' width="350" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
-
+<img align='right' width="440" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
 
 <!---
 crediblebilal/crediblebilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
