@@ -7,19 +7,7 @@
 
 - GitHub Stats:
 
-[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalqv&bg_color=2f4f4f&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/bilalqv/github-readme-activity-graph)
-
-<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox)](https://git.io/streak-stats) --->
-
-<img align='left' width="370" src="https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox">
-
-<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
+[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalqv&bg_color=181c1c&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/bilalqv/github-readme-activity-graph)
 
 
-
-
-
-<!---
-crediblebilal/crediblebilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalqv&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bilalqv&show_icons=true&theme=holi&hide_border=true&icon_color=68ACFE" />
