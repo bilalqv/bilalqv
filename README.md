@@ -7,7 +7,7 @@
 
 - GitHub Stats:
 
-[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalqv&bg_color=2f4f4f&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/ashiqYousuf/github-readme-activity-graph)
+[![Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bilalqv&bg_color=2f4f4f&color=F5DEB3&line=ff0065&point=00f800&area=true)](https://github.com/bilalqv/github-readme-activity-graph)
 
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox)](https://git.io/streak-stats) --->
 
