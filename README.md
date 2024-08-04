@@ -13,7 +13,7 @@
 
 <img align='left' width="420" src="https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox">
 
-<img align='right' width="400" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
+<img align='right' width="300" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
 
 <!---
 crediblebilal/crediblebilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
