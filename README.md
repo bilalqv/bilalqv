@@ -11,9 +11,13 @@
 
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox)](https://git.io/streak-stats) --->
 
-<img align='left' width="360" src="https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox">
+<img align='left' width="370" src="https://streak-stats.demolab.com?user=bilalqv&theme=gruvbox">
 
-<img align='right' width="340" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
+<img align='right' width="350" src="https://github-readme-stats.vercel.app/api?username=bilalqv&count_private=true&show_icons=true&theme=cobalt">
+
+
+
+
 
 <!---
 crediblebilal/crediblebilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
